@@ -10,7 +10,7 @@ public class BookShelfIterator implements Iterator<Book> {
     //        생성자 만들어주기
     public BookShelfIterator(BookShelf bookShelf) {
 //        아이터레이터는 집합체 접근해서 하나씩 꺼내와야 하니까
-//        이 경우는 북쉘프 접근해서 책 꺼내오기 그래야지 불쉘프아이터레이터는 북수ㅐㄹ프에 ㅂ접근 가능
+//        이 경우는 북쉘프 접근해서 책 꺼내오기 그래야지 불쉘프아이터레이터는 북쉘프에 접근 가능
 //        생성자
 //        북 쉘프 아이터레이터와 북쉘프 연결
         this.bookShelf = bookShelf;
