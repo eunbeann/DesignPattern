@@ -1,0 +1,6 @@
+#written by FileProperties
+#Thu Mar 23 10:40:06 KST 2023
+depth=32
+width=1024
+name=keb
+height=512

@@ -1,0 +1,27 @@
+package ch03.practice;
+
+public class CharDisplay extends AbstractDisplay {
+    private char ch; // 표시해야 하는 문자
+
+//    오픈 클로즈 등은 자식에서 제어
+
+    // 생성자 
+    public CharDisplay(char ch) {
+        this.ch = ch;
+    }
+
+    public void open() {
+        // 시작 문자열 "<<"를 표시한다
+        System.out.print("<<");
+    }
+
+    public void print() {
+        // 필드에 기억해 둔 문자를 1회 표시한다 
+        System.out.print(ch);
+    }
+
+    public void close() {
+        // 종료 문자열 ">>"를 표시한다 
+        System.out.println(">>");
+    }
+}

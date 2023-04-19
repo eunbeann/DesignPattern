@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5426a697-5e92-4039-9bd8-e3c2183fc930" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/Banner.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice1/Banner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/PrintBanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice1/PrintBanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/PrintBanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/PrintBanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/A1b/framework/ConcreteProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/A1b/framework/ConcreteProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/A2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/A2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/A2/MessageBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/A2/MessageBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/ch06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/ch06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch10/ch10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch10/ch10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SelfStudy/DP_2023-1/src/ch02/ch02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SelfStudy/DP_2023-1/src/ch02/ch02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SelfStudy/DP_2023-1/src/hw/ch01/BookShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SelfStudy/DP_2023-1/src/hw/ch01/BookShelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SelfStudy/DP_2023-1/src/hw/ch01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SelfStudy/DP_2023-1/src/hw/ch01/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MyuLN1g0tImGkjyFzXAIFjc7FC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eunbeann/Library/Mobile Documents/com~apple~CloudDocs/2023/소분설/프로젝트/DP_2023-1/src/ch02&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5426a697-5e92-4039-9bd8-e3c2183fc930" name="Changes" comment="" />
+      <created>1678752086969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678752086969</updated>
+      <workItem from="1678752088301" duration="134000" />
+      <workItem from="1679357631518" duration="2825000" />
+      <workItem from="1679572181923" duration="703000" />
+      <workItem from="1679579563820" duration="4000" />
+      <workItem from="1679579621309" duration="2081000" />
+      <workItem from="1679996254923" duration="3040000" />
+      <workItem from="1680000418747" duration="626000" />
+      <workItem from="1680012140674" duration="1220000" />
+      <workItem from="1680059656722" duration="4930000" />
+      <workItem from="1680188385768" duration="586000" />
+      <workItem from="1680188981668" duration="80000" />
+      <workItem from="1680189070693" duration="7000" />
+      <workItem from="1680687943792" duration="2000" />
+      <workItem from="1680744894415" duration="598000" />
+      <workItem from="1680747297359" duration="601000" />
+      <workItem from="1680748560517" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
